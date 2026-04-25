@@ -1,0 +1,86 @@
+eslint like checking grammers
+shadcn@latest init 
+        Older videos show:
+        Which color would you like to use as base color?
+        Newer version first asks:
+        Select a component library
+        because the latest CLI changed the setup flow.
+        So your terminal is correct ✅
+        What to choose now
+        You are seeing:
+        Radix
+        Base
+        Choose:
+        → Radix ✅
+        Use arrow keys → select Radix → press Enter
+        Why Radix?
+        Because:
+        most tutorials use it
+        better accessibility
+        more production-ready
+        most startup dashboards use it
+        dialogs, sheets, dropdowns, modals are stronger
+        This is the standard professional choice.
+        What is Base?
+        Base is lighter and more minimal.
+        But for beginners and most Next.js projects:
+        Radix > Base
+        After that
+        You may still get:
+        Which base color would you like to use?
+        Then choose:
+        → Slate ✅
+        (or Zinc, Neutral, Gray)
+        I recommend:
+        Slate
+        because it looks modern + clean.
+        Most SaaS projects use it.
+        My recommended full setup
+        Choose:
+        Component Library → Radix
+        Base Color → Slate
+        CSS Variables → Yes
+        Tailwind → Yes
+        TypeScript → Yes
+        This is production-level setup.
+        Why your video looks different
+        Because:
+        Old video = old shadcn CLI
+        Your terminal = latest shadcn CLI
+        Same tool.
+        Updated flow.
+        Nothing wrong.
+
+                    Why Nova?
+            It gives you:
+            clean modern UI
+            professional SaaS-style design
+            Lucide icons
+            Geist font (very popular with Vercel / Next.js ecosystem)
+            best compatibility with tutorials
+            production-ready dashboard feel
+            Basically:
+            Startup-level professional look 🚀
+            Other presets
+            Vega / Maia / Lyra / Mira / Luma / Sera
+            These are just different design styles/themes.
+            Not wrong — just style preference.
+            But for learning:
+            Nova = best
+            because most examples match it.
+            Custom
+            Only for advanced users.
+            Not for beginners.
+            Avoid for now.
+            My recommendation for YOU
+            Since you're building serious projects:
+            stock app
+            startup projects
+            dashboards
+            SaaS
+            fullstack systems
+            Select:
+            Nova - Lucide / Geist
+            and press Enter.
+
+rafce react arrow function expect component snipt
