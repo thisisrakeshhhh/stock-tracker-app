@@ -84,3 +84,10 @@ shadcn@latest init
             and press Enter.
 
 rafce react arrow function expect component snipt
+
+(root)
+    route group  localhost:3000/root x () 
+
+layout is root or main file 
+---This wraps all pages automatically.It acts like the global structure.
+---CSR (Client-Side Rendering)-SSR (Server-Side Rendering)-SSG (Static Site Generation)-ISR (Incremental Static Regeneration)

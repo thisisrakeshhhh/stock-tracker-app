@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = { //meta data for the app
-  title: "Signalist",
-  description: "Track real-time stock prices, news, and market trends with Signalist.",
+  title: "Stocky",
+  description: "Track real-time stock prices, news, and market trends with Stocky.",
 };
 
 export default function RootLayout({
